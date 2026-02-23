@@ -1129,39 +1129,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aerma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\reidh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aerma\\Downloads\\UT-Bootcamp\\Udemy\\dotNET-Core-and-React- FullStack\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\reidh\\Downloads\\Coding\\Full-Stack-Udemy\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\aerma\\Downloads\\UT-Bootcamp\\Udemy\\dotNET-Core-and-React- FullStack\\Reactivities\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\aerma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aerma\\Downloads\\UT-Bootcamp\\Udemy\\dotNET-Core-and-React- FullStack\\Reactivities\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\reidh\\Downloads\\Coding\\Full-Stack-Udemy\\Reactivities\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\reidh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\reidh\\Downloads\\Coding\\Full-Stack-Udemy\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\aerma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\reidh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\aerma\\Downloads\\UT-Bootcamp\\Udemy\\dotNET-Core-and-React- FullStack\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\aerma\\Downloads\\UT-Bootcamp\\Udemy\\dotNET-Core-and-React- FullStack\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\reidh\\Downloads\\Coding\\Full-Stack-Udemy\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\reidh\\Downloads\\Coding\\Full-Stack-Udemy\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
